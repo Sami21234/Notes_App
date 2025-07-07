@@ -30,8 +30,3 @@ It allows users to create, edit, delete, and save notes with titles — all stor
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sami21234/Notes_App.git
